@@ -2,8 +2,5 @@
   {
     "package": "rco",
     "oncran": true
-  },
-  {
-    "package": "MIGSA"
   }
 ]
