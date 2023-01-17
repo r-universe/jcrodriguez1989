@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "chatgpt"]
+	path = chatgpt
+	url = https://github.com/jcrodriguez1989/chatgpt
+	shallow = true
+	registered = true
 [submodule "rco"]
 	path = rco
 	url = https://github.com/jcrodriguez1989/rco

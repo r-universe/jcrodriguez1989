@@ -1,5 +1,9 @@
 [
   {
+    "package": "chatgpt",
+    "oncran": true
+  },
+  {
     "package": "rco",
     "oncran": true
   },
