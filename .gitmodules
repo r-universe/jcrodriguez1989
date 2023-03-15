@@ -8,6 +8,11 @@
 	url = https://github.com/jcrodriguez1989/chatgpt
 	shallow = true
 	registered = true
+[submodule "malvinas"]
+	path = malvinas
+	url = https://github.com/jcrodriguez1989/malvinas
+	shallow = true
+	registered = true
 [submodule "MIGSA"]
 	path = MIGSA
 	url = https://github.com/jcrodriguez1989/migsa
