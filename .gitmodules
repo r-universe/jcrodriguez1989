@@ -13,11 +13,6 @@
 	url = https://github.com/jcrodriguez1989/malvinas
 	shallow = true
 	registered = true
-[submodule "MIGSA"]
-	path = MIGSA
-	url = https://github.com/jcrodriguez1989/migsa
-	shallow = true
-	registered = true
 [submodule "rco"]
 	path = rco
 	url = https://github.com/jcrodriguez1989/rco
